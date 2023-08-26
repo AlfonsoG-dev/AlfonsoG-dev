@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TuNovio
-- 👀 I’m interested in: Music, software and technology
-- 🌱 I’m currently learning: scala programming language.
-- 💞️ I’m looking to collaborate on: Web development
+- 👋 Hi, I’m @AlfonsoG-dev
+- 👀 I’m interested in software and technology
+- 🌱 I’m currently learning: scala and c# programming languages.
+- 💞️ I’m looking to collaborate on: Web backend development
 - 📫 How to reach me: alfgomachi@gmail.com
 
 <!---
