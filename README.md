@@ -1,14 +1,13 @@
 # About Me:
 >- 👋 Hi, I’m @AlfonsoG-dev
->- 👀 I’m interested in software development and technology.
->- 🦾 I'm currently working with Java.
->- 🌱 I’m currently learning: scala and c# programming languages.
+>- 👀 I’m interested in software development.
+>- 🦾 I'm currently working with Java, JavaScript and Python.
+>- 🌱 I’m currently learning: scala programming language.
 >- 💞️ I’m looking to collaborate on: Web backend development.
 >- 📫 How to reach me: alfgomachi@gmail.com
 
 # Main Repo's
->- [orm-eje](https://github.com/AlfonsoG-dev/orm-eje): I tried to replicate an `ORM` functionality.
->- [joogle](https://github.com/AlfonsoG-dev/joogle): A CLI tool for finding methods within a Java project.
+>- [java-orm](https://github.com/AlfonsoG-dev/javaORM_2.0): An `ORM` like application in Java.
 >- [javaBuild](https://github.com/AlfonsoG-dev/javaBuild): a basic build tool for simple java proyect.
 
 <!---
