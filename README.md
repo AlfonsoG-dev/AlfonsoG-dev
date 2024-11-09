@@ -1,8 +1,6 @@
 # About Me:
 >- 👋 Hi, I’m @AlfonsoG-dev
 >- 👀 I’m interested in software development.
->- 🦾 I'm currently working with Java, JavaScript and Python.
->- 🌱 I’m currently learning: scala programming language.
 >- 💞️ I’m looking to collaborate on: Web backend development.
 >- 📫 How to reach me: alfgomachi@gmail.com
 ----
