@@ -5,7 +5,6 @@
 >- 📫 How to reach me: alfgomachi@gmail.com
 ----
 # Currently working on
->- [encryption-samples](https://github.com/AlfonsoG-dev/EncryptionSamples): A **BACK-END** server API for testing symmetric and asymmetric encryption.
 >- [Java build tool with config](https://github.com/AlfonsoG-dev/JavaBuildConfig): A **Java build tool** using a **txt** file with the configurations for the build process.
 ----
 # Main Repo's
