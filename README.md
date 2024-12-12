@@ -6,7 +6,7 @@
 ----
 # Currently working on
 >- [Java build tool with config](https://github.com/AlfonsoG-dev/JavaBuildConfig): A **Java build tool** using a **txt** file with the configurations for the build process.
->- [A react project](https://github.com/AlfonsoG-dev/thesis-demo): A *Demo* about my degree thesis.
+>- [React application](https://github.com/AlfonsoG-dev/thesis-demo): A *Demo* about my degree thesis.
 ----
 # Main Repo's
 >- [java-orm](https://github.com/AlfonsoG-dev/javaORM_2.0): An `ORM` like application in Java.
