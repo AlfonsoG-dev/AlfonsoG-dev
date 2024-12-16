@@ -5,7 +5,6 @@
 >- 📫 How to reach me: alfgomachi@gmail.com
 ----
 # Currently working on
->- [Java build tool with config](https://github.com/AlfonsoG-dev/JavaBuildConfig): A **Java build tool** using a **txt** file with the configurations for the build process.
 >- [React application](https://github.com/AlfonsoG-dev/thesis-demo): A *Demo* about my degree thesis.
 ----
 # Main Repo's
