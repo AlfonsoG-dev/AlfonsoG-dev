@@ -1,15 +1,15 @@
 # About Me:
 >- 👋 Hi, I’m @AlfonsoG-dev
->- 👀 I’m interested in software development.
->- 💞️ I’m looking to collaborate on: Web backend development.
->- 📫 How to reach me: alfgomachi@gmail.com
+>- 👀 I’m interested in software development, computers and technology.
+>- 💞️ I’m looking to collaborate on: Web fullstack development.
+>- 📫 How to reach me by email: alfgomachi@gmail.com
 ----
 # Currently working on
->- [React application](https://github.com/AlfonsoG-dev/thesis-demo): A *Demo* about my degree thesis.
+- [React application](https://github.com/AlfonsoG-dev/thesis-demo): A *Demo* application for my college degree.
 ----
 # Main Repo's
->- [java-orm](https://github.com/AlfonsoG-dev/javaORM_2.0): An `ORM` like application in Java.
->- [javaBuild](https://github.com/AlfonsoG-dev/javaBuild): a basic build tool for simple java proyect.
+- [java-orm](https://github.com/AlfonsoG-dev/javaORM_2.0): An `ORM` like application in Java.
+- [javaBuild](https://github.com/AlfonsoG-dev/javaBuild): a basic build tool for simple java proyects.
 
 <!---
 AlfonsoG-dev/AlfonsoG-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
