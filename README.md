@@ -5,7 +5,7 @@
 >- 📫 How to reach me by email: alfgomachi@gmail.com
 ----
 # Currently working on
-- [React application](https://github.com/AlfonsoG-dev/thesis-demo): A *Demo* application for my college degree.
+- [IoModule](https://github.com/AlfonsoG-dev/IoModule): A `Test` application to study about file system management and multithreading.
 ----
 # Main Repo's
 - [java-orm](https://github.com/AlfonsoG-dev/javaORM_2.0): An `ORM` like application in Java.
