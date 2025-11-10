@@ -5,7 +5,7 @@
 >- 📫 How to reach me by email: alfgomachi@gmail.com
 ----
 # Currently working on
-- [IoModule](https://github.com/AlfonsoG-dev/JavaBuildConfig): A `Test` application to study about a java build process.
+- [Java build Config](https://github.com/AlfonsoG-dev/JavaBuildConfig): A `Test` application to study about a java build process.
 ----
 # Main Repo's
 - [java-orm](https://github.com/AlfonsoG-dev/javaORM_2.0): An `ORM` like application in Java.
