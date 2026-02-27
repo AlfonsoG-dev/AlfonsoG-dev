@@ -1,15 +1,22 @@
 # About Me:
->- 👋 Hi, I’m @AlfonsoG-dev
->- 👀 I’m interested in software development, computers and technology.
->- 💞️ I’m looking to collaborate on: Web fullstack development.
->- 📫 How to reach me by email: alfgomachi@gmail.com
+
+- 👋 Hi, I’m @AlfonsoG-dev
+- 👀 I’m interested in software development, computers and technology.
+- 💞️ I’m looking to collaborate on: Web fullstack development.
+- 📫 How to reach me by email: alfgomachi@gmail.com
+
 ----
-# Currently working on
-- [Java build Config](https://github.com/AlfonsoG-dev/JavaBuildConfig): A `Test` application to study about a java build process.
+
+## ¡Currently working on!
+
+- [javaBuild](https://github.com/AlfonsoG-dev/javaBuild): A complete rewrite of the project to use better code structure and test some stuff that i'v been learning.
+
 ----
-# Main Repo's
-- [java-orm](https://github.com/AlfonsoG-dev/javaORM_2.0): An `ORM` like application in Java.
-- [javaBuild](https://github.com/AlfonsoG-dev/javaBuild): a basic build tool for simple java proyects.
+
+## Main Repo's
+
+- [FileManager](https://github.com/AlfonsoG-dev/FileManager): An application to make file operations like (create, delete, move, copy) in Java with gradle as build tool.
+- [JavaOrm](https://github.com/AlfonsoG-dev/javaORM_2.0): An `ORM` like application using metadata in Java.
 
 <!---
 AlfonsoG-dev/AlfonsoG-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
